@@ -1,4 +1,6 @@
 eu sou um arquivo de texto.
-eu sou a primeira modifiÁ„o
+eu sou a primeira modifi√ß√£o
 
-eu estou na ramificaÁ„o main
+eu estou na ramifica√ß√£o main
+
+altera√ß√£o do github para testar o pull
